@@ -1,2 +1,2 @@
 # PROJETO_SENAI
-AAAA
+O projeto senai é um projeto de uma calculadora do senai :)
